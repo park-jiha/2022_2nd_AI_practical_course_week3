@@ -1,0 +1,2 @@
+# 2022_2nd_AI_practical_course_week3
+2022_1st_AI_practical_course_week6
